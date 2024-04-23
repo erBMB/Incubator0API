@@ -1,0 +1,15 @@
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\bin\Debug\net7.0\Persistence.deps.json
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\bin\Debug\net7.0\Persistence.dll
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\bin\Debug\net7.0\Persistence.pdb
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\bin\Debug\net7.0\Domain.dll
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\bin\Debug\net7.0\Domain.pdb
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.dll
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.pdb
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\ref\Persistence.dll
