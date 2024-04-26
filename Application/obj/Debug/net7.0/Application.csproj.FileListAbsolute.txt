@@ -10,8 +10,9 @@ E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Application\obj\Debug\net7.0\A
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
-E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Application\obj\Debug\net7.0\Application.dll
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Application\obj\Debug\net7.0\refint\Application.dll
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Application\obj\Debug\net7.0\Application.pdb
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Application\obj\Debug\net7.0\ref\Application.dll
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Application\obj\Debug\net7.0\Application.sourcelink.json
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Application\obj\Debug\net7.0\Applicat.44B5EDA2.Up2Date

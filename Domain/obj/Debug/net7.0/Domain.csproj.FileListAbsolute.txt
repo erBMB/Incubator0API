@@ -1,7 +1,6 @@
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Domain\bin\Debug\net7.0\Domain.deps.json
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Domain\bin\Debug\net7.0\Domain.dll
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Domain\bin\Debug\net7.0\Domain.pdb
-E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
@@ -10,3 +9,4 @@ E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Domain\obj\Debug\net7.0\Domain
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Domain\obj\Debug\net7.0\refint\Domain.dll
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Domain\obj\Debug\net7.0\Domain.pdb
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Domain\obj\Debug\net7.0\ref\Domain.dll
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Domain\obj\Debug\net7.0\Domain.sourcelink.json

@@ -31,7 +31,6 @@ E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\API\obj\Debug\net7.0\staticweb
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\API\obj\Debug\net7.0\staticwebassets.build.json
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\API\obj\Debug\net7.0\staticwebassets.development.json
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\API\obj\Debug\net7.0\scopedcss\bundle\API.styles.css
-E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\API\obj\Debug\net7.0\API.csproj.CopyComplete
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\API\obj\Debug\net7.0\API.dll
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\API\obj\Debug\net7.0\refint\API.dll
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\API\obj\Debug\net7.0\API.pdb
@@ -77,3 +76,5 @@ E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\API\bin\Debug\net7.0\MediatR.C
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\API\bin\Debug\net7.0\Newtonsoft.Json.dll
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\API\bin\Debug\net7.0\AutoMapper.dll
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\API\obj\Debug\net7.0\API.sourcelink.json
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\API\obj\Debug\net7.0\API.csproj.Up2Date

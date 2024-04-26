@@ -38,7 +38,7 @@ namespace API.Controllers
         // Get the current date and time
         DateTime currentDateTime = DateTime.Now;
 
-         string formattedDateTime = currentDateTime.ToString("yyyy_MM_dd@HH_mm_ss");
+         string formattedDateTime = currentDateTime.ToString("yyyy-MM-ddTHH:mm:ss");
 
         // Return the current date and time as a JSON response
         return Ok(new { DateTime = formattedDateTime });
@@ -63,11 +63,30 @@ namespace API.Controllers
         await Mediator.Send(new EditTempIncubator.Command{Id=id,Temperatura=temperatura});
         return Ok();
     }
+     [HttpPut("editTsetata/{id}/{temperatura}")]
+   public async Task<IActionResult>EditTempSetata(Guid id,string temperatura)
+    {
+        await Mediator.Send(new EditTempSetata.Command{Id=id,Temperatura=temperatura});
+        return Ok();
+    }
      [HttpPut("{id}")]
    public async Task<IActionResult>EditIncubator(Guid id, Incubator incubator)
     {
         incubator.Id=id;
         await Mediator.Send(new EditIncubator.Command{Incubator=incubator});
+        return Ok();
+    }
+
+    [HttpDelete("incubator/{id}")]
+    public async Task<IActionResult>DeleteIncubator(Guid id){
+
+        await Mediator.Send(new DeleteIncubator.Command{Id=id});
+        return Ok();
+    }
+     [HttpDelete("log/{id}")]
+    public async Task<IActionResult>DeleteLog(Guid id){
+
+        await Mediator.Send(new DeleteLog.Command{Id=id});
         return Ok();
     }
 

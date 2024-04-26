@@ -21,9 +21,11 @@ namespace Application.Incubatoare
         }
             public async Task Handle(Command request, CancellationToken cancellationToken) //change to Task<Unit> 
             {
+               var incubator=request.Incubator;
+             
+                 incubator.ZiFinal = incubator.ZiIncepere.AddDays(incubator.ZileFormare);
                 _context.Incubatoare.Add(request.Incubator);
                 await _context.SaveChangesAsync();  
-              // return Unit.Value;
             }
         }
 

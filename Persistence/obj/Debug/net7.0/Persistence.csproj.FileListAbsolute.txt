@@ -8,8 +8,9 @@ E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\P
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
-E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.dll
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\refint\Persistence.dll
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.pdb
 E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persistence.sourcelink.json
+E:\03.Proiecte\08_LicentaDan\cod\probe\Incubator0\Persistence\obj\Debug\net7.0\Persiste.61C28332.Up2Date
